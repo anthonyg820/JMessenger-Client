@@ -14,3 +14,8 @@ Upcoming Features
 - Encrypted chat rooms (requiring password authentication before entering)
 - Smiley face emojis
 - Possible internet-based version
+
+Usage Instructions
+1) Download JMessenger Server on the computer you wish to be the chat host.
+2) Download JMessenger Client on all computers that you'd like to have chat cabability
+3) Run the server program first. Then run client program. And you're ready to go!
